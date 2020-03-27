@@ -1,0 +1,37 @@
+% Encoding: UTF-8
+
+@InProceedings{Baenagarc2012TF,
+  author = {Baenagarcía, Manuel and Carmonacejudo, José M and Castillo, Gladys and Moralesbueno, Rafael},
+  title  = {TF-SIDF: Term frequency, sketched inverse document frequency},
+  year   = {2012},
+}
+
+@PhdThesis{zz,
+  author = {zhuzu},
+  title  = {Taobao comment mining and its application research},
+  school = {UESTC},
+}
+
+@Article{Martinc2015Efficient,
+  author = {Martinc, Matej},
+  title  = {Efficient Natural Language Processing with Python},
+  year   = {2015},
+}
+
+@Article{WannThe,
+  author  = {Wann-Yih, W. U. and PO-CHING HUANG and CHEN-SU FU},
+  title   = {The influence of an online auction’s product price and e-retailer reputation on consumers’ perception, attitude, and behavioral intention},
+  journal = {Scandinavian Journal of Psychology},
+  volume  = {52},
+  number  = {3},
+  pages   = {290-302},
+}
+
+@PhdThesis{w2,
+  author = {Wang Junkui},
+  title  = {Research on the usefulness of online reviews on e-commerce sites},
+  school = {Xidian University},
+  year   = {2014},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
